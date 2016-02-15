@@ -1,6 +1,4 @@
-# carcassonne
+# Carcassonne
 
 
-THis is a test
-
-Ryan is king
+This is a web adaptation of the classic board game Carcassone https://en.wikipedia.org/wiki/Carcassonne_(board_game)
